@@ -1,0 +1,10 @@
+# Some basics to get started
+
+# API information for testing
+INFORMATION
+
+# Some default .gitignore python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+
